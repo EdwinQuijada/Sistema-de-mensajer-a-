@@ -40,8 +40,8 @@
     .nuevo-chat {
       background-color: #A491D2;
       color: rgb(0, 0, 0);
-      padding: 20px 10px;
-      margin: 10% 15%;
+      padding: 10px 20px;
+      margin: 5% 7%;
       border-radius: 9px; 
       cursor: pointer;
     font-size: 100%;
@@ -86,7 +86,9 @@
       align-items: center;
       flex-direction: column;
       text-align: center;
-      padding: 20px;
+      padding: 20px; 
+      height: 100%;
+      width: 100%;
     }
 
     .main img {
